@@ -9,4 +9,5 @@ Our analysis focuses on three key questions:
 1. Is there a correlation between a team’s win-loss record and total revenue?
 2. Does higher average attendance at home games lead to increased revenue?
 3. Do teams that qualify for bowl games generate significantly higher revenue?
+
 To answer these questions, we combined performance data (wins, losses, attendance, and bowl participation) with financial data (total revenue and expenses) for Division I public teams from 2005 to 2023.
