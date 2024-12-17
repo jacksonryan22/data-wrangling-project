@@ -3,7 +3,8 @@
 ## Folders
 
 source data:
-
+https://collegefootballdata.com/exporter
+https://knightnewhousedata.org/fbs
 
 ### raw
 Original, unmodified data after downloading, scraping, etc
