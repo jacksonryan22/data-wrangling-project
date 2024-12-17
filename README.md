@@ -11,3 +11,10 @@ Our analysis focuses on three key questions:
 3. Do teams that qualify for bowl games generate significantly higher revenue?
 
 To answer these questions, we combined performance data (wins, losses, attendance, and bowl participation) with financial data (total revenue and expenses) for Division I public teams from 2005 to 2023.
+
+## Requirements
+- import requests
+- import pandas as pd
+- import matplotlib.pyplot as plt
+- import seaborn as sns
+- from scipy.stats import pearsonr
